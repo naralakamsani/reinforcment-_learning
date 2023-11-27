@@ -4,7 +4,7 @@ This project implements three different reinforcement algorithms: value iteratio
 
 ### Problems
 * Problem#1: Frozen Lake 
-* Problem#2: Blacjack
+* Problem#2: Blackjack
 
 ### Run Code Instuctions
 * open collab notebook with learners for Problem#1: https://colab.research.google.com/github/naralakamsani/reinforcment_learning/blob/main/frozen_lake.ipynb
