@@ -7,7 +7,7 @@ This project implements three different reinforcement algorithms: value iteratio
 * Problem#2: Blacjack
 
 ### Run Code Instuctions
-* open collab notebook with learners for Problem#1: https://colab.research.google.com/github/naralakamsani/reinforcment_learning/blob/main/blackjack.ipynb
+* open collab notebook with learners for Problem#1: https://colab.research.google.com/github/naralakamsani/reinforcment_learning/blob/main/frozen_lake.ipynb
 * open collab notebook with learners for Problem#2: https://colab.research.google.com/github/naralakamsani/reinforcment_learning/blob/main/blackjack.ipynb
 * Click on the runtime option above. Then proceed to click "run all" to run the entire notebook
 * note: It might take a while to finish running the whole notebook, so it might be ideal to run only a few desired focused cells
